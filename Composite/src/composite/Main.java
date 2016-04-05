@@ -2,6 +2,7 @@ package composite;
 
 public class Main {
 
+	//Creates fruits, and then adds them to the FruitBasket Arraylist
 	public static void main(String[] args) {
 		Fruits banana = new Banana();
 		Fruits apple = new Apple();
